@@ -1,2 +1,3 @@
 Git is a good tool.
- i like it.
+I like it.
+Firefox is good tool.
